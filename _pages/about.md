@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-hi ~, I am a first-year master student from [Beijing Institute of Technology (BIT)](https://cs.bit.edu.cn/), supervised by [Prof. Zhiwei Zhang](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/zhangzw_277c6d460a1948d3a60b44170248a1c0/index.htm), after receiving my bachelor's degree from Xu Teli academy and School of Computer Science at [Beijing Institute of Technology](https://cs.bit.edu.cn/).
+hi ~  I am a first-year master student from [Beijing Institute of Technology (BIT)](https://cs.bit.edu.cn/), supervised by [Prof. Zhiwei Zhang](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/zhangzw_277c6d460a1948d3a60b44170248a1c0/index.htm), after receiving my bachelor's degree from Xu Teli academy and School of Computer Science at [Beijing Institute of Technology](https://cs.bit.edu.cn/).
 
 My research interest
 ======
 My research interests can be concluded as follow:
 
-1. `Building efficient process of data collection in data process pipeline`. Especially for data in tabular format, and come up with effective algorithm for table join search, table union search, table overlap estimation and so on, enriching table data for downstream data analysis and ML tasks.
-2. `Implementing high-performance fusion query engine`. There are many kinds of data formats in data lake, how to execute high-performance query with low latency, high throughput and great scalability over different formats of data by the same primitives is the issue that we are working in.
-3. `Establishing efficient scheduler for resource allocation in HTAP system`. Adopt effective schedule strategy and policy for controller and worker to keep load balance and cost-efficient in HTAP system, especially in OLAP system.
+1. **Building efficient process of data collection in data process pipeline**. Especially for data in tabular format, and come up with effective algorithm for table join search, table union search, table overlap estimation and so on, enriching table data for downstream data analysis and ML tasks.
+2. **Implementing high-performance fusion query engine**. There are many kinds of data formats in data lake, how to execute high-performance query with low latency, high throughput and great scalability over different formats of data by the same primitives is the issue that we are working in.
+3. **Establishing efficient scheduler for resource allocation in HTAP system**. Adopt effective schedule strategy and policy for controller and worker to keep load balance and cost-efficient in HTAP system, especially in OLAP system.
 
 Award and Honor
 ======
