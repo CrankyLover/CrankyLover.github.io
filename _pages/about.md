@@ -7,22 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-hi
+hi ~, I am a first-year master student from [Beijing Institute of Technology (BIT)](https://cs.bit.edu.cn/), supervised by [Prof. Zhiwei Zhang](https://cs.bit.edu.cn/szdw/jsml/gjjgccrc/zhangzw_277c6d460a1948d3a60b44170248a1c0/index.htm), after receiving my bachelor's degree from Xu Teli academy and School of Computer Science at [Beijing Institute of Technology](https://cs.bit.edu.cn/).
 
-A data-driven personal website
+My research interest
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My research interests can be concluded as follow:
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+1. Building efficient process of data collection in data process pipeline. Especially for data in tabular format, and come up with effective algorithm for table join search, table union search, table overlap estimation and so on, enriching table data for downstream data analysis and ML tasks.
+2. Implementing high-performance fusion query engine. There are many kinds of data formats in data lake, how to execute high-performance query with low latency, high throughput and great scalability over different formats of data by the same primitives is the issue that we are working in.
+3. Establishing efficient scheduler for resource allocation in HTAP system. Adopt effective schedule strategy and policy for controller and worker to keep load balance and cost-efficient in HTAP system, especially in OLAP system.
 
-Getting started
+Award and Honor
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Outstanding Graduate of Beijing, 2024
+- Outstanding Graduate of Beijing Institute of Technology, 2024
+- Frist Class, National College Student Statistical Modeling Competition, 2023
+- First Class, Contemporary Undergraduate Mathematical Contest in Modeling, 2022
+- First Class, The Chinese Mathematics Competitions, 2022
+- First Class, The Chinese Mathematics Competitions, 2021
 
 Site-wide configuration
 ------
