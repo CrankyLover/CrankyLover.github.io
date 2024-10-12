@@ -15,7 +15,7 @@ My research interests can be concluded as follow:
 
 1. **Building efficient process of data collection in data process pipeline**. Especially for data in tabular format, and come up with effective algorithms for table join search, table union search, table overlap estimation, table enrichment and so on, enriching table data for downstream data analysis and ML tasks.
 2. **Implementing high-performance fusion query engine**. There are many kinds of data formats in data lake, how to execute high-performance query with low latency, high throughput and great scalability over different formats of data by the same primitives is the issue that we are working in.
-3. **Developing efficient and high scalability subgraph matching system**. Adopt efficient algorithms for continous subgraph matching (CSM for short), especially for online special pattern or event detecting, which aims to decouple query stream from graph update stream.
+3. **Developing efficient and high-concurrency subgraph matching system**. Adopt efficient algorithms for continous subgraph matching (CSM for short), especially for online special pattern or event detecting, which aims to decouple query stream from graph update stream.
 
 Award and Honor
 ======
