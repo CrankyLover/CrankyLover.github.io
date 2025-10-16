@@ -20,10 +20,8 @@ My research interests can be concluded as follow:
 
 Publication
 ======
-- **[VLDB 2026]** Aquila: A High-Concurrency System for Incremental Graph Query
-  **Ziqi Zou**, Hao Zhang, Jiaxin Yao, Kangfei Zhao, Zhiwei Zhang, Sen Gao, Jingpeng Hao, Ye Yuan, Guoren Wang
-- (In Submission) Fast Multi-query Oriented Continuous Subgraph Matching via Data-centric Index
-  **Ziqi Zou**, Zhiwei Zhang, Ye Yuan, Guoren Wang
+- **[VLDB 2026]** Aquila: A High-Concurrency System for Incremental Graph Query <br> **Ziqi Zou**, Hao Zhang, Jiaxin Yao, Kangfei Zhao, Zhiwei Zhang, Sen Gao, Jingpeng Hao, Ye Yuan, Guoren Wang
+- (In Submission) Fast Multi-query Oriented Continuous Subgraph Matching via Data-centric Index <br> **Ziqi Zou**, Zhiwei Zhang, Ye Yuan, Guoren Wang
   
 
 Award and Honor
