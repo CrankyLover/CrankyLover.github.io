@@ -22,7 +22,7 @@ Publication
 ======
 - **[VLDB 2026]** Aquila: A High-Concurrency System for Incremental Graph Query <br> **Ziqi Zou**, Hao Zhang, Jiaxin Yao, Kangfei Zhao, Zhiwei Zhang, Sen Gao, Jingpeng Hao, Ye Yuan, Guoren Wang.
 - (Under Submission) Fast Multi-query Oriented Continuous Subgraph Matching via Cost-effective Index and Hybrid-order Plan <br> **Ziqi Zou**, Kangfei Zhao, Zhiwei Zhang.
-- (Under Submission) ISPG: Cost-based Interleaved Plan Generation for SQL\PGQ Queries <br> Yiwen Li, Zhiwei Zhang, **Ziqi Zou**, Kangfei Zhao, Shuai Zhao, Hao Zhang, Ye Yuan.
+- (Under Submission) ISPG: Cost-based Interleaved Plan Generation for SQL/PGQ Queries <br> Yiwen Li, Zhiwei Zhang, **Ziqi Zou**, Kangfei Zhao, Shuai Zhao, Hao Zhang, Ye Yuan.
   
 
 Award and Honor
