@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-hi ~  I am a second-year master student from [Beijing Institute of Technology (BIT)](https://cs.bit.edu.cn/), supervised by [Prof. Zhiwei Zhang](https://cs.bit.edu.cn/szdw/jsml/bssds/11ecdda7276a4202ac64fb245bdab419.htm), [Dr. Hao Zhang](https://h20zhang.github.io/) and [prof. Kangfei Zhao](https://cs.bit.edu.cn/szdw/jsml/bssds/912c4f0bc680402fbc1089c5c4f0fc90.htm), after receiving my bachelor's degree from Xu Teli academy and School of Computer Science at [Beijing Institute of Technology](https://cs.bit.edu.cn/).
+hi ~  I am a second-year master student from [Beijing Institute of Technology (BIT)](https://cs.bit.edu.cn/), supervised by [Prof. Zhiwei Zhang](https://cs.bit.edu.cn/szdw/jsml/bssds/11ecdda7276a4202ac64fb245bdab419.htm), [Prof. Kangfei Zhao](https://cs.bit.edu.cn/szdw/jsml/bssds/912c4f0bc680402fbc1089c5c4f0fc90.htm), and [Dr. Hao Zhang](https://h20zhang.github.io/) after receiving my bachelor's degree from Xu Teli academy and School of Computer Science at [Beijing Institute of Technology](https://cs.bit.edu.cn/).
 
 Research Interest
 ======
@@ -20,8 +20,9 @@ My research interests can be concluded as follow:
 
 Publication
 ======
-- **[VLDB 2026]** Aquila: A High-Concurrency System for Incremental Graph Query <br> **Ziqi Zou**, Hao Zhang, Jiaxin Yao, Kangfei Zhao, Zhiwei Zhang, Sen Gao, Jingpeng Hao, Ye Yuan, Guoren Wang
-- (In Submission) Fast Multi-query Oriented Continuous Subgraph Matching via Data-centric Index <br> **Ziqi Zou**, Zhiwei Zhang, Ye Yuan, Guoren Wang
+- **[VLDB 2026]** Aquila: A High-Concurrency System for Incremental Graph Query <br> **Ziqi Zou**, Hao Zhang, Jiaxin Yao, Kangfei Zhao, Zhiwei Zhang, Sen Gao, Jingpeng Hao, Ye Yuan, Guoren Wang.
+- (Under Submission) Fast Multi-query Oriented Continuous Subgraph Matching via Cost-effective Index and Hybrid-order Plan <br> **Ziqi Zou**, Kangfei Zhao, Zhiwei Zhang.
+- (Under Submission) ISPG: Cost-based Interleaved Plan Generation for SQL\PGQ Queries <br> Yiwen Li, Zhiwei Zhang, **Ziqi Zou**, Kangfei Zhao, Shuai Zhao, Hao Zhang, Ye Yuan.
   
 
 Award and Honor
